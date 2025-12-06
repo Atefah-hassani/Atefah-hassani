@@ -34,15 +34,18 @@ Here are the tools I currently use to turn data into insights:
 
 My repositories reflect my focus on applying analytical tools to real-world business scenarios.
 
-#### 📈 Finance & Sales Analysis
-Applying data science to financial metrics and forecasting.
-* **[Google Stock Price Prediction](https://github.com/Atefah-hassani/google_stock_price_prediction):** Using Long Short-Term Memory (LSTM) networks for time-series forecasting.
-* **[Sales Analysis](https://github.com/Atefah-hassani/Sales_Analysis):** Utilizing Python for exploratory data analysis on sales data to identify trends.
+#### 📊 Business Intelligence & Operations
+Focusing on optimizing processes, understanding sales drivers, and informing strategic growth.
 
-#### 📊 Business Intelligence & Operations Case Studies
-Using data to solve operational challenges and inform strategy.
-* **[Cyclistic Bikeshare Case Study](https://github.com/Atefah-hassani/Case-study-Cyclistic-bikeshare):** An R-based analysis to understand how casual riders and annual members use Cyclistic bikes differently.
-* **[Bellabeat Smart Device Case Study](https://github.com/Atefah-hassani/Case-study-Bellabeat-smart-device):** Analyzing smart device usage data in R to unlock new growth opportunities for Bellabeat.
+* **[Coffee Shop Sales Analysis](https://github.com/Atefah-hassani/coffee_shop_sales):** Analyzing sales data to identify peak times, popular items, and opportunities for increasing revenue and efficiency.
+* **[Startup Failures SQL Analysis](https://github.com/Atefah-hassani/startup_failures_sql):** Using advanced SQL techniques to explore trends and factors contributing to startup failure, providing risk insights.
+* **[Wisdom Sparkle Project](https://github.com/Atefah-hassani/Wisdom_Sparkle):** A case study applying data insights to a specific business context (details within the repository).
+
+#### 📈 Finance
+Applying data analysis and modeling to solve problems in financial services and investment.
+
+* **[Loan Approval Prediction](http://github.com/Atefah-hassani/Loan_Approval_Prediction):** Developing a predictive model to assess the risk of loan default, informing lending decisions.
+* **[Vanguard Investment Project](https://github.com/Atefah-hassani/vanguard_project):** A data-driven exploration related to investment strategies or portfolio analysis (details within the repository).
 
 ---
 
