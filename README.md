@@ -2,7 +2,7 @@
 
 > Situated at the intersection of technical data analysis and strategic business application.
 
-I am a data analyst passionate about leveraging data to drive decision-making in the fields of **Finance, Business Intelligence, and Operations**. My goal is to translate complex datasets into clear, actionable insights that improve operational efficiency and financial outcomes.
+I am a BI passionate, leveraging data to drive decision-making in the fields of **Finance, Business Intelligence, and Operations**. My goal is to translate complex datasets into clear, actionable insights that improve operational efficiency and financial outcomes.
 
 ### 🧐 About Me
 
